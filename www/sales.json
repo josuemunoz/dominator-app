@@ -1,0 +1,44 @@
+[
+{
+	"product" : "shirt",
+	"price" : "5.99",
+	
+	"image":
+		[{"image":"image1.jpg", "image":"image2.png"}],
+		
+	"description ": "this is a red shirt for sale",
+	"shortDescription": "red shirt",
+	"alt": "shirt",
+	"shipping": "5.99"
+	
+},
+
+{
+	"product" : "computer",
+	"price" : "300",
+	"description ": "this is a pentium computer in a black case",
+	"shortDescription": "red shirt",
+	"alt": "shirt",
+	"shipping": "5.99"
+	
+	},
+	{
+	"product" : "app design",
+	"price" : "300",
+	"description ": "this is a pentium computer in a black case",
+	"shortDescription": "red shirt",
+	"alt": "shirt",
+	"shipping": "5.99"
+	
+	},
+	
+	{
+	"product" : "cup",
+	"price" : "300",
+	"description ": "this is a pentium computer in a black case",
+	"shortDescription": "red shirt",
+	"alt": "shirt",
+	"shipping": "5.99"
+	
+	}
+]
